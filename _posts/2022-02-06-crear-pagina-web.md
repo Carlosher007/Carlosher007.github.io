@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Crear una pagina web con GitHub
-excerpt: 'Así como yo que tengo esta espectacular pagina / blog para publicar diferentes temas que aprendo y me gustaría compartir tu tambien podrías tener la tuya totalmente gratis, y esto con GitHub Pages, además de unas cuantas plantillas que nos facilitará mucho las cosas. Para que entiendas, _GitHub Pages_ es un servicio (de Github claramente) que permite alojar nuestros proyectos con la posibilidad de publicarlo como una pagina web estatica sin tener que pagar ni un centavo, todo de forma muy sencilla y usando un lenguajes de marcado ligero llamado _Markdown_'
+excerpt: 'Así como yo que tengo esta espectacular pagina / blog para publicar diferentes temas que aprendo y me gustaría compartir, tu tambien podrías tener la tuya totalmente gratis, y esto con GitHub Pages, además de unas cuantas plantillas que nos facilitará mucho las cosas. Para que entiendas, _GitHub Pages_ es un servicio (de Github claramente) que permite alojar nuestros proyectos con la posibilidad de publicarlo como una pagina web estatica sin tener que pagar ni un centavo, todo de forma muy sencilla y usando un lenguajes de marcado ligero llamado _Markdown_'
 date: 2022-02-05
 classes: wide
 header:
@@ -19,7 +19,7 @@ tags:
 
 ![](/assets/images/crear-pagina-web/principal_logo.png)
 
-Así como yo que tengo esta espectacular pagina / blog para publicar diferentes temas que aprendo y me gustaría compartir tu tambien podrías tener la tuya totalmente gratis, y esto con GitHub Pages, además de unas cuantas plantillas que nos facilitará mucho las cosas. Para que entiendas, _GitHub Pages_ es un servicio (de GitHub claramente) que permite alojar nuestros proyectos con la posibilidad de publicarlo como una pagina web estatica sin tener que pagar ni un centavo, todo de forma muy sencilla y usando un lenguajes de marcado ligero llamado _Markdown_.
+Así como yo que tengo esta espectacular pagina / blog para publicar diferentes temas que aprendo y me gustaría compartir, tu tambien podrías tener la tuya totalmente gratis, y esto con GitHub Pages, además de unas cuantas plantillas que nos facilitará mucho las cosas. Para que entiendas, _GitHub Pages_ es un servicio (de GitHub claramente) que permite alojar nuestros proyectos con la posibilidad de publicarlo como una pagina web estatica sin tener que pagar ni un centavo, todo de forma muy sencilla y usando un lenguajes de marcado ligero llamado _Markdown_.
 
 ## ¿Que es lo que necesitas?
 
@@ -41,20 +41,20 @@ Estas son 4 de muchas otras plantillas que puedes utilizar para tu pagina, te re
 Una vez seleccinada la plantilla que te gusta, le daras `Fork`, que es basicamente clonar ese repositorio a nuestra cuenta de Github. Luego, iremos a settings y cambiaremos el _Repository name_ a : _tuNombreDeUsuario.github.io_. Como ejemplo puede ver como lo hice a continuación.
 ![](/assets/images/crear-pagina-web/fork_github.png)
 
-
 ![](/assets/images/crear-pagina-web/repository_name.png)
 
-Ya con esto esto y esperando unos minutos a que Github trabaje tendremos nuestra pagina web publica a través de este enlace : **https://_nombreDeRepositorio_**
+Ya con esto y esperando unos minutos a que Github trabaje tendremos nuestra pagina web publica a través de este enlace : **https://_nombreDeRepositorio_**
 ![](/assets/images/crear-pagina-web/snowscane_page.png)
 
 ---
+
 Para personalizarla desde nuestro computador crearemos un carpeta en el pc y clonarmos el repositorio con el siguiente comando en cmd : `git clone https://github.com/Carlosher007/Carlosher007.github.io.git`, donde claramente, el link del github cambia al tuyo.
 
 Con esto ya podemos mirar el _README.md_ del repo que elegiste y seguir los pasos, pero si estas como yo que el github no tenía readme seguiras los pasos siguientes-
 
 ## Instalación de herramientas necesarias
 
-Existen programas que debemos instalar para poder personalizar estas paginas de forma agrable, estos programas se encuentran generalmente en el readme de cada pagina, mientras que en otros no, y es por ello que veremos como instalar aquellas que yo necesite. Cabe aclarar que el sistema operativo en el cual hare los pasos sera Windows.
+Existen programas que debemos instalar para poder personalizar estas paginas de forma agrable, estos programas se encuentran generalmente en el readme de cada pagina, mientras que en otros no, y es por ello que veremos como instalar aquellas que yo necesité. Cabe aclarar que el sistema operativo en el cual hare los pasos sera Windows.
 
 ![](/assets/images/crear-pagina-web/readme_instalar.png)
 
@@ -65,7 +65,6 @@ Existen programas que debemos instalar para poder personalizar estas paginas de 
 
 Para instalar _Jekyll_ tendremos que instalar primero Ruby a través de este enlace : [Instalar Ruby](https://rubyinstaller.org). Escogeremos el paquete con DevKit de una version mayor que la 2.0, y sí es la ultima versión es mucho mejor.
 ![](/assets/images/crear-pagina-web/ruby_install1.png)
-
 
 ![](/assets/images/crear-pagina-web/ruby_install2.png)
 
@@ -78,14 +77,16 @@ Cuando haya finalizado la instalación le daremos a finalizar, para que se nos a
 ![](/assets/images/crear-pagina-web/ruby_MSY2.png)
 
 En este punto abriremos en cmd la carpeta que habiamos creado y en la que hicimos clone de nuestro repo. En esta carpeta escribiremos los siguientes comandos, uno despues de otro.
+
 ```
 gem -v
 gem install bundler jekyll
 bundle install
 ```
+
 ![](/assets/images/crear-pagina-web/cmd_jekyll.png)
 
-Una vez hecho esto abriremos nuestro codigo en la carpeta que clonamos el repo. En el archivo **Gemfile** añadiremos `webrick` al final.
+Una vez hecho esto abriremos nuestro codigo en la carpeta que clonamos el repo. En el archivo **Gemfile** añadiremos `gem "webrick"` al final.
 
 ![](/assets/images/crear-pagina-web/webrick.png)
 
@@ -101,7 +102,8 @@ Con esto ya tendremos nuestra pagina corriendo en local, por lo que si vamos al 
 ## Personalizar Pagina
 
 ### Config.yml
-Personalizar  nuestra pagina sera muy intuitivo, pues en la mayoria de los casos solo tendremos que modificar o crear archivos.md . En mi caso para customizar el sidebar, tendre que modificar el archivo _config.yml
+
+Personalizar nuestra pagina sera muy intuitivo, pues en la mayoria de los casos solo tendremos que modificar o crear archivos.md . En mi caso para customizar el sidebar, tendre que modificar el archivo \_config.yml
 
 ![](/assets/images/crear-pagina-web/cap_config.png)
 
@@ -110,4 +112,3 @@ En la parte de site settings encontramos información general de la pagina, mien
 ![](/assets/images/crear-pagina-web/site_settings.png)
 
 ![](/assets/images/crear-pagina-web/side_author.png)
-
