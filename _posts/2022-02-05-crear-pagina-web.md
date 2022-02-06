@@ -1,13 +1,13 @@
 ---
 layout: single
 title: Crear una pagina web con GitHub
-excerpt: 'Así como yo que tengo esta espectacular pagina / blog para publicar diferentes temas que aprendo y me gustaría compartir, tu tambien podrías tener la tuya totalmente gratis, y esto con GitHub Pages, además de unas cuantas plantillas que nos facilitará mucho las cosas. Para que entiendas, _GitHub Pages_ es un servicio (de Github claramente) que permite alojar nuestros proyectos con la posibilidad de publicarlo como una pagina web estatica sin tener que pagar ni un centavo, todo de forma muy sencilla y usando un lenguajes de marcado ligero llamado _Markdown_'
+excerpt: 'Como crear y publicar tu propia pagina web estatica totalmente gratis con GitHub Pages, utilizando Markdown y unas plantillas muy buenas'
 date: 2022-02-05
 classes: wide
 header:
-  teaser: /assets/images/crear-pagina-web/principal_logo.jpg
+  teaser: /assets/images/crear-pagina-web/principal_logo.png
   teaser_home_page: true
-  icon: /assets/images/hackthebox.webp
+  icon: https://image.flaticon.com/icons/png/512/889/889192.png?w=740
 categories:
   - GitHub Pages
   - Create a Page
