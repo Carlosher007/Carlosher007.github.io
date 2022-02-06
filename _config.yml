@@ -19,7 +19,7 @@ locale: 'es-ES'
 title: 'Blog | Carlosher007'
 title_separator: '-'
 name: 'CarlosHer007'
-description: 'Publicaciones acerca de tecnología, programación e ingeniería en sistemas'
+description: 'Publicaciones acerca de tecnología, programación, ingeniería en sistemas y mi vida'
 url: 'https://carlosher007.github.io' # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl: # the subpath of your site, e.g. "/blog"
 repository: 'Carlosher007/Carlosher007.github.io' # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -116,7 +116,7 @@ author:
   github: 'Carlosher007'
   gitlab:
   google_plus:
-  keybase: 
+  keybase:
   instagram:
   lastfm:
   linkedin: 'carlosheragu'
