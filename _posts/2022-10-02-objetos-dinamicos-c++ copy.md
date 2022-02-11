@@ -13,6 +13,7 @@ categories:
 tags:
   - Lenguajes de programacion
   - C++
+  - Teoria
 ---
 
 ![Programming Image](/assets/images/objetos-dinamicos/background.jpg)
