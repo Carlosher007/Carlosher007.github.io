@@ -112,3 +112,30 @@ En la parte de site settings encontramos información general de la pagina, mien
 ![](/assets/images/crear-pagina-web/site_settings.png)
 
 ![](/assets/images/crear-pagina-web/side_author.png)
+
+---
+
+Para modificar los titulos que estan en la parte superior derecha, debes entrar en la carpeta _data_ y modificar el *title* del archivo _navigation.yml_
+![](/assets/images/crear-pagina-web/heading_titles.png)
+
+---
+
+El apartado de about por defecto no lleva nada, entonces si quieres colocar algo allí debes seguir estos pasos:
+
+- Abres la carpeta _pages y en el archivo about.md colocas `layout: about`
+![](/assets/images/crear-pagina-web/about_layou.png)
+
+- En la carpeta de _layouts creas un archivo *about.html* y añades esto:
+
+```html
+---
+layout: archive
+---
+
+{{ content }}
+
+<div class="entries-{{ page.entries_layout }}">
+  <p>Aquí escribes la información que quiera colocar</p>
+</div>
+```
+
