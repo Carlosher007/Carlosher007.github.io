@@ -2,7 +2,7 @@
 layout: single
 title: Objetos dinamicos c++
 excerpt: 'Un vistaso a la creación y uso de objetos dinamicos en C++'
-date: 2022-02-05
+date: 2022-02-10
 classes: wide
 header:
   teaser: /assets/images/objetos-dinamicos/background.jpg

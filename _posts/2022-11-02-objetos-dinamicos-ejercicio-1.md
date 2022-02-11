@@ -2,7 +2,7 @@
 layout: single
 title: Ejercicio 1 C++ - Objetos Dinamicos
 excerpt: 'Ejercicio sobre objetos dinamicos en el lenguaje de programación c++'
-date: 2022-02-05
+date: 2022-02-11
 classes: wide
 header:
   teaser: /assets/images/ejercicios-c++.png
