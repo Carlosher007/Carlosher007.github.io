@@ -21,6 +21,7 @@ tags:
 - Destruir => delete
 
 > El operador new crea un nuevo objeto de la clase y retorna un puntero que apunta a ese objeto
+
 ```cpp
 // Para crearlo
 int *edad = new int(40);
@@ -34,6 +35,7 @@ amigo = nullptr;
 ```
 
 > Los objetos creados dinámicamente no se destruyen al llegar a la llave final del bloque. Aunque los punteros que apuntan a ellos, sí se destruyen
+
 Eso da la posibilidad de retornar un puntero desde una funcion
 ```cpp
 int main(){
