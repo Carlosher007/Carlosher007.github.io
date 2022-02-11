@@ -5,15 +5,17 @@ excerpt: 'Un vistaso a la creación y uso de objetos dinamicos en C++'
 date: 2022-02-05
 classes: wide
 header:
-  teaser: /assets/images/crear-pagina-web/principal_logo.png
+  teaser: /assets/images/objetos-dinamicos/background.jpg
   teaser_home_page: true
-  icon: https://image.flaticon.com/icons/png/512/889/889192.png?w=740
+  icon: /assets/images/objetos-dinamicos/code-solid.svg
 categories:
   - Objetos Dinamicos
 tags:
   - Lenguajes de programacion
   - C++
 ---
+
+![Programming Image](/assets/images/objetos-dinamicos/background.jpg)
 
 # Vaibles dinamicas
 
@@ -36,7 +38,8 @@ amigo = nullptr;
 
 > Los objetos creados dinámicamente no se destruyen al llegar a la llave final del bloque. Aunque los punteros que apuntan a ellos, sí se destruyen
 
-Eso da la posibilidad de retornar un puntero desde una funcion
+>Eso da la posibilidad de retornar un puntero desde una funcion
+
 ```cpp
 int main(){
   //
