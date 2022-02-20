@@ -81,7 +81,7 @@ En este punto abriremos en cmd la carpeta que habiamos creado y en la que hicimo
 ```
 gem -v
 gem install bundler jekyll
-bundle install
+gem install bundle 
 ```
 
 ![](/assets/images/crear-pagina-web/cmd_jekyll.png)
