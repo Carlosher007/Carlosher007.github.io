@@ -75,6 +75,6 @@ Busquemos a la accion de TSLA
 
 Una plataforma muy segura y confiable es **Passfolio**, un broker que está asegurado por la Security Exchange comision de estados unidos y que además no cobra ninguna comisión por comprar.
 
-Si quieres registrarte y obtener una acción de 100usd por depositar 25usd en dinero o 50usd en criptomonedasa puedes hacerlo con este link: [Registrate](https://passfolio.com/join?u=carlosa9783)
+Si quieres registrarte y obtener una acción de 100usd por depositar 25 usd en dinero o 50 usd en criptomonedas puedes hacerlo con este link: [Registrate](https://passfolio.com/join?u=carlosa9783)
 
 ![Passfolio](/assets/images/invertir-acciones/img5.png)
