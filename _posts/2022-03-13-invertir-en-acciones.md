@@ -78,3 +78,38 @@ Una plataforma muy segura y confiable es **Passfolio**, un broker que está aseg
 Si quieres registrarte y obtener una acción de 100usd por depositar 25 usd en dinero o 50 usd en criptomonedas puedes hacerlo con este link: [Registrate](https://passfolio.com/join?u=carlosa9783)
 
 ![Passfolio](/assets/images/invertir-acciones/img5.png)
+
+## Como depositar dinero en Passfolio
+
+Una vez registrado en la pagina te vas al apartado de **Depositar**, en la que tienes dos opciones :
+- _Cuenta de acciones_ : A través de banco o tarjeta de crédito/débito (recomendada)
+- _Cuenta Crypto_ : A través de una cartera de criptos, como binance (tambien recomendada)
+
+Puedes por ejemplo hacer una tarjeta virtual en daviplata o nequi, recargarla en algun punto autorizado y usarla para depositar en acciones
+
+> Recuerda que si depositas 25 usd podrás tener una acción aleatoria de 100 usd
+
+![Formas de deposito](/assets/images/invertir-acciones/img6.png)
+
+## Como comprar una acción
+
+Supongamos que decidiste comprar acciones de Tesla (TSL), para comprarla harás lo siguiente :
+
+- Te vas a descubrir, escribes TSL y le das Enter
+
+- Eliges a la acción TSL
+
+![ComprarTSL](/assets/images/invertir-acciones/img7.png)
+
+- Le das a comprar
+
+![ComprarTSL](/assets/images/invertir-acciones/img8.png)
+
+- Eliges la opción de USD y digitas cuanto dinero quieres invertir en dolares. Más abajo te dice a cuantas acciones equivalen. Le de das continuar, aceptas y listo. El proceso puede demorarse mucho o poco, dependiendo de la demanda del día.
+
+![ComprarTSL](/assets/images/invertir-acciones/img9.png)
+
+
+
+
+
