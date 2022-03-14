@@ -2,7 +2,7 @@
 layout: single
 title: Python
 excerpt: ''
-date: 2022-03-07
+date: 2023-03-07
 classes: wide
 header:
   teaser: /assets/images/publicando-poemas.png

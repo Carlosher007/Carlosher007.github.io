@@ -2,7 +2,7 @@
 layout: single
 title: Invertir en acciones
 excerpt: 'Como y donde invertir en acciones'
-date: 2022-02-11
+date: 2022-03-13
 classes: wide
 header:
   teaser: /assets/images/invertir-acciones/teaset.jpg
@@ -43,13 +43,13 @@ Busquemos a la accion de TSLA
 
 - **Deb/Eqt :** Mide, la deuda que tiene la empresa en relacion a su capital, lo ideal es que sea menor a 0.60% a no ser que sea una empresa que sepas que va a crecer, o que sea grande
 
-- **Inst Own :**  Es la cantidad de empresas que meten plata en la acción, por lo que si el porcentaje es alto (mayor al 40%) significa que es confiable debido a que las empresas invierten en acciones pensando a largo plazo
+- **Inst Own :** Es la cantidad de empresas que meten plata en la acción, por lo que si el porcentaje es alto (mayor al 40%) significa que es confiable debido a que las empresas invierten en acciones pensando a largo plazo
 
 - **Nos dirijimos a statemens**
 
 - **Total revenue :** El total de ingresos en la empresa. Debes evaluar que tan bien le ha ido a la empresa en los ultimos alos
 
-- **Net Income :**  La plata que termino ganando por año la empresa, es decir, el total de ingresos menos los prestamos y pagoss hechos.
+- **Net Income :** La plata que termino ganando por año la empresa, es decir, el total de ingresos menos los prestamos y pagoss hechos.
 
 ![EjemploTSL1](/assets/images/invertir-acciones/img3.png)
 
@@ -71,9 +71,10 @@ Busquemos a la accion de TSLA
 - Wells Fargo (WFC)
 - Bank of America (BAC)
 
-
 ## En donde puedo invertir
 
 Una plataforma muy segura y confiable es **Passfolio**, un broker que está asegurado por la Security Exchange comision de estados unidos y que además no cobra ninguna comisión por comprar.
 
 Si quieres registrarte y obtener una acción de 100usd por depositar 25usd en dinero o 50usd en criptomonedasa puedes hacerlo con este link: [Registrate](https://passfolio.com/join?u=carlosa9783)
+
+![Passfolio](/assets/images/invertir-acciones/img5.png)
