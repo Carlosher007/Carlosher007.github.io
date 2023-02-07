@@ -15,8 +15,6 @@ tags:
   - Arch Linux
 ---.
 
-<!-- ![Programming Image](/assets/images/objetos-dinamicos/ejercicio-2.jpg) -->
-<!-- [Articulo de Objetos dinamicos](https://carlosher007.github.io/objetos-dinamicos-c++/) -->
 
 ## Instalacioón de Arch Linux 
 
@@ -336,4 +334,7 @@ Cambias el *xterm* de *[mod],"Return"* por *alacritty*
 
 ## Final
 
-Espera la segunda parte de personalización...
+Espera la segunda parte de personalización, mientras puedes ver los archivos en:
+
+[Configuracion 1](https://github.com/antoniosarosi/dotfiles)
+[Configuracion 2](https://github.com/antoniosarosi/dotfiles/tree/83fb32e60921a879cfab717553f8f016e0145d2b)
