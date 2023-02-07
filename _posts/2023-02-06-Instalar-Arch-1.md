@@ -334,11 +334,6 @@ Estando en la carpeta `/home/carlosHot` escribimos `cd .config/` y luego `code q
 
 Cambias el *xterm* de *[mod],"Return"* por *alacritty*
 
+## Final
 
-
-```
-systemctl enable sddm
-```
-
-```
-```
+Espera la segunda parte de personalización...
