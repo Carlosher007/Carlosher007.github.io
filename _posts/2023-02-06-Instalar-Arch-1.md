@@ -1,8 +1,8 @@
 ---
 layout: single
-title: Arch Linux - Instalación 1
+title: Instalación de Arch Linux - 1
 excerpt: 'Como instalar Arch Linux y no morir en el intento'
-date: 2022-02-11
+date: 2023-02-06
 classes: wide
 header:
   teaser: /assets/images/2023-02-06-Instalar-Arch-1/wallpapper-arch.png
@@ -13,10 +13,9 @@ categories:
 tags:
   - Linux
   - Arch Linux
----.
+---
 
-
-## Instalacioón de Arch Linux 
+# Instalacioón de Arch Linux 
 
 Debes tener en cuenta que este tutorial supone que ya tienes la imagen ISO de arch y que ya estas en la consola preparado para instalar el sistema operativo. Con esto en cuenta vamos con los pasos.
 
