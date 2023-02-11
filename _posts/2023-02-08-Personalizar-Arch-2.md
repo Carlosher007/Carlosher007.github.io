@@ -1,8 +1,8 @@
 ---
 layout: single
 title: Personalizacion de Arch Linux - 1
-excerpt: 'Como personalizar Arch Linux y no morir en el intento'
-date: 2023-02-06
+excerpt: 'Como personalizar Arch Linux y no morir en el intento - 1'
+date: 2023-02-08
 classes: wide
 header:
   teaser: /assets/images/2023-02-06-Instalar-Arch-1/wallpapper-arch.png
