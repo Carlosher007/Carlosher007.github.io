@@ -1,0 +1,16 @@
+current directory: /home/carlosHot/GitHub/Carlosher007.github.io/vendor/bundle/ruby/3.0.0/gems/eventmachine-1.2.7/ext/fastfilereader
+/usr/bin/ruby -I /usr/lib/ruby/3.0.0 extconf.rb
+creating Makefile
+
+current directory: /home/carlosHot/GitHub/Carlosher007.github.io/vendor/bundle/ruby/3.0.0/gems/eventmachine-1.2.7/ext/fastfilereader
+make DESTDIR\= sitearchdir\=./.gem.20230226-5664-xcohgi sitelibdir\=./.gem.20230226-5664-xcohgi clean
+
+current directory: /home/carlosHot/GitHub/Carlosher007.github.io/vendor/bundle/ruby/3.0.0/gems/eventmachine-1.2.7/ext/fastfilereader
+make DESTDIR\= sitearchdir\=./.gem.20230226-5664-xcohgi sitelibdir\=./.gem.20230226-5664-xcohgi
+compiling mapper.cpp
+compiling rubymain.cpp
+linking shared-object fastfilereaderext.so
+
+current directory: /home/carlosHot/GitHub/Carlosher007.github.io/vendor/bundle/ruby/3.0.0/gems/eventmachine-1.2.7/ext/fastfilereader
+make DESTDIR\= sitearchdir\=./.gem.20230226-5664-xcohgi sitelibdir\=./.gem.20230226-5664-xcohgi install
+/usr/bin/install -c -m 0755 fastfilereaderext.so ./.gem.20230226-5664-xcohgi

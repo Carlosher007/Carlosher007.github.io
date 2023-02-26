@@ -90,6 +90,41 @@ Una vez hecho esto abriremos nuestro codigo en la carpeta que clonamos el repo. 
 
 ![](/assets/images/crear-pagina-web/webrick.png)
 
+## Instalar Jekyll en Linux
+
+Para este caso los siguientes comandos serán para la distribución de Arch Linux. Lo primero es actualizarlos paquetes e instalar ruby, así como otros paquetes necesarios.
+
+```bash
+sudo pacman -Syu
+sudo pacman -S ruby base-devel rubygems
+```
+
+| Nombre     | Descripción                                                                                        |
+|------------|---------------------------------------------------------------------------------------------------|
+| ruby       | Lenguaje de programación dinámico, de código abierto, centrado en la simplicidad y la productividad |
+| base-devel | Conjunto de herramientas de desarrollo básicas necesarias para compilar paquetes en Arch Linux    |
+| rubygems   | Gestor de paquetes de Ruby que facilita la descarga, instalación, actualización y eliminación de gemas (librerías) en un proyecto de Ruby |
+
+Luego, tenemos que agregar ruby al path de nuestra bash
+
+```bash
+# Escribes lo siguiente en una consola
+nvim ~/.bashrc # Tambien puedes usar otro editor
+#Agregas lo siguiente al archivo
+export PATH=$PATH:/usr/bin/ruby
+# Guardas y sales
+
+#Para que los cambios se vean reflejados
+source ~/.bashrc
+```
+Con eso ya hemos colocado ruby en el path, por lo que podremos ir a nuestra carpeta donde tenemos el repositorio. Eliminamos el archivo Gemfile.lock y escribimos lo siguiente
+
+```bash
+gem install bundler jekyll
+bundle install --path vendor/bundle
+bundle install
+```
+
 ## Lanzar en local nuestra pagina
 
 Ahora sí, ya podemos lanzar en local nuestra web, para testear la pagina en vivo mientras modificamos los archivos, con el comando `bundle exec jekyll serve`.
